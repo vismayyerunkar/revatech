@@ -1,0 +1,33 @@
+
+  .clients{
+      /* background-color: red; */
+      padding-top: 85px;
+      height: calc(100vh + 85px);
+  }
+  .cards-section{
+      height: 700px;
+      display: flex;
+      overflow-x: scroll;
+
+      /* display: flex;
+      align-items: center;
+      justify-content: space-between;
+      flex-wrap: wrap;
+      padding-top: 50px;
+      padding-left: 10px;
+      padding-right: 10px;
+      overflow-y: scroll !important; */
+
+  }
+  .cards-section::-webkit-scrollbar {
+    display: none !important;
+}
+#client-testimonials{
+    margin-left: auto;
+    display: flex;
+    align-items: center;
+    justify-content:center;
+    width:100vw;
+    font-size: 40px;
+    margin-top: 20px;
+}
