@@ -5,8 +5,8 @@ function BlogHeader() {
     return (
         <>
         <div className="blog-header">
-                <h1>Welcome to Reva Tech</h1>
-                <h2>Web Development | Data Annotation | AI and much more</h2>
+                <h1>Welcome to Reva Technologies</h1>
+                <h2>Web & App Development | Data Annotation | AI and ML</h2>
                 <img className="blog-bg-image" width="100%" height="300px" src={BlogBg} alt="blog"/> 
         </div>
         <div className="blog-categories-header">

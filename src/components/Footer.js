@@ -63,11 +63,7 @@ function Footer() {
           <div className='footer-link-items'>
             <h2 style={{color:'white'}}>INDIA</h2>
             <p></p>
-            <p 	className='fas fa-map-marker-alt' style={{color:'white'}}> Reva Technologies Pvt. Ltd.,Z-302 Omkar Bramha CHS Adai, New Panvel 410206.</p>
-            <p></p>
-            <p></p>
-            <p className='fa fa-phone'> +022 956 954 9299</p>
-            <p></p>
+            <p 	className='fas fa-map-marker-alt' style={{color:'white'}}> Reva Technologies,Z-302 Omkar Bramha CHS Adai, New Panvel 410206.</p>
             <p className='fa fa-envelope'>  revatechno18@.com</p>
           </div>
           </div>

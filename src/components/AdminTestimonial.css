@@ -1,0 +1,11 @@
+.testimonial-form{
+    width: 400px !important;
+}
+.admin-testimonial{
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(31, 30, 30);
+}
